@@ -1,0 +1,8 @@
+openai
+pandas
+tiktoken
+scipy
+jupyter
+matplotlib
+torch
+scikit-learn
